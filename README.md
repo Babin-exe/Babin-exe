@@ -1,7 +1,7 @@
 # Babin-exe
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Babin-exe/Babin-exe/main/pp.jpeg"
+  <img src="https://raw.githubusercontent.com/Babin-exe/Babin-exe/main/header.jpg"
        alt="Babin Banner"
        width="100%" />
 </p>
