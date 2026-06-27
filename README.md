@@ -1,6 +1,3 @@
-# Hi, I'm Babin 👋
+# Babin-exe
 
-![](https://komarev.com/ghpvc/?username=Babin-exe&label=Profile%20views&color=0e75b6&style=flat)
-
-- Building and learning
-- Open to collaboration
+![Profile image](https://raw.githubusercontent.com/Babin-exe/Babin-exe/main/profile-image.jpg)
