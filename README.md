@@ -10,7 +10,7 @@
   
 :)
   
-Dev //  Dsa // Cp
+
 
 </samp>
 
