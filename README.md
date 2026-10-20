@@ -15,5 +15,10 @@
 </samp>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Babin-exe&label=Profile%20Views&style=for-the-badge&color=blueviolet" />
+<img
+  align="right"
+  width="270"
+  src="https://count.getloli.com/@:Babin-exe"
+  alt="Babin profile views"
+/>
 </p>
